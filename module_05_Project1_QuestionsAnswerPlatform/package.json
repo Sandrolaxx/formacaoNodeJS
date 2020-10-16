@@ -1,0 +1,23 @@
+{
+  "name": "module_05_project1_questionsanswerplatform",
+  "version": "1.0.0",
+  "description": "QuestionsAnswersPlataform",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandrolaxx/sandrolaxQuestionAndAnswer.git"
+  },
+  "author": "Sandro Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandrolaxx/sandrolaxQuestionAndAnswer/issues"
+  },
+  "homepage": "https://github.com/Sandrolaxx/sandrolaxQuestionAndAnswer#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
